@@ -1,0 +1,35 @@
+[
+    {
+        "user": "rflores",
+        "name": "Rafael A. Flores M.",
+        "age": 37,
+        "date": "1985-04-01",
+        "description": "Admin page, the owner page, and father of two beatyfull childrens jejejje",
+        "country": "República Dominicana",
+        "phone": "829-380-0185",
+        "status": 1,
+        "email": "rafael.flores.martinez@gmail.com"
+    },
+    {
+        "user": "rosa",
+        "name": "Rosa M. Beltre B.",
+        "age": 30,
+        "date": "2022-10-09",
+        "description": "Mother of two beatyfull childs!",
+        "country": "República Dominicana",
+        "phone": "809-344-5566",
+        "status": 1,
+        "email": "rmbb0508@gmail.com"
+    },
+    {
+        "user": "jvladimir",
+        "name": "Joel V. Flores M.",
+        "age": 40,
+        "date": "1983-11-01",
+        "description": "Es un hombre gruñon",
+        "country": "República Dominicana",
+        "phone": "829-445-7788",
+        "status": 1,
+        "email": "hooks360@hotmail.com"
+    }
+]
